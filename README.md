@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthanaaa-24&theme=github_dark" />
 
-  
   <br>
   <img src="https://streak-stats.demolab.com?user=Keerthanaaa-24&theme=dark" />
 
