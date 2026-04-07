@@ -13,7 +13,6 @@
 
   <br>
   <img src="https://streak-stats.demolab.com?user=Keerthanaaa-24&theme=dark" />
-
   <br>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Keerthanaaa-24&theme=github_dark" />
