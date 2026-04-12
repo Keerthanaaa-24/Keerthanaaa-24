@@ -5,8 +5,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Keerthanaaa-24&color=2d2d2d&labelColor=ffffff&style=flat-square)
 
-
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Keerthanaaa-24&theme=github_dark" />
